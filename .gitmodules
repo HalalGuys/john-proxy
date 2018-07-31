@@ -1,0 +1,12 @@
+[submodule "photos"]
+	path = photos
+	url = https://github.com/HalalGuys/photos.git
+[submodule "listing-details"]
+	path = listing-details
+	url = https://github.com/HalalGuys/listing-details.git
+[submodule "bookings"]
+	path = bookings
+	url = https://github.com/HalalGuys/bookings.git
+[submodule "reviews"]
+	path = reviews
+	url = https://github.com/HalalGuys/reviews.git
