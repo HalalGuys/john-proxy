@@ -2,3 +2,5 @@ bookings/public/
 listing-details/public/
 photos/public/
 reviews/public/
+node_modules
+credentials.json
